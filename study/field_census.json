@@ -1,0 +1,216 @@
+{
+ "competition": "u-ronigrv-the-internet-in-one-word-e388f33b",
+ "source": "GET https://make.fun/api/submissions/<id>/artifact.txt?phase=dev for every entry",
+ "field_entries_harvested": 1708,
+ "artifacts_read": 1690,
+ "distinct_texts": 321,
+ "text_len": {
+  "min": 3,
+  "max": 28,
+  "mean": 8.9
+ },
+ "gate": "UTF-8 text of 1 to 30 characters, not only white space",
+ "top_repeated": [
+  [
+   "feral",
+   239
+  ],
+  [
+   "doomscroll",
+   186
+  ],
+  [
+   "brainrot",
+   118
+  ],
+  [
+   "doomscrolling",
+   103
+  ],
+  [
+   "unhinged",
+   74
+  ],
+  [
+   "enshittification",
+   72
+  ],
+  [
+   "cookies",
+   53
+  ],
+  [
+   "buffering",
+   34
+  ],
+  [
+   "procrastination",
+   32
+  ],
+  [
+   "scrollhole",
+   32
+  ],
+  [
+   "actually",
+   30
+  ],
+  [
+   "unsupervised",
+   29
+  ],
+  [
+   "captcha",
+   27
+  ],
+  [
+   "unsubscribe",
+   23
+  ],
+  [
+   "yapping",
+   22
+  ],
+  [
+   "unpaid",
+   18
+  ],
+  [
+   "touchgrass",
+   17
+  ],
+  [
+   "rabbithole",
+   17
+  ],
+  [
+   "receipts",
+   16
+  ],
+  [
+   "groupchat",
+   15
+  ],
+  [
+   "circus",
+   13
+  ],
+  [
+   "slop",
+   10
+  ],
+  [
+   "enshittified",
+   10
+  ],
+  [
+   "unread",
+   9
+  ],
+  [
+   "daycare",
+   8
+  ]
+ ],
+ "lane_counts": {
+  "feral": 239,
+  "doomscroll": 295,
+  "brainrot": 118,
+  "unhinged": 74,
+  "enshittification": 82,
+  "scroll-family": 333,
+  "tab-family": 29,
+  "ai": 148,
+  "creature-family": 12,
+  "money-family": 11,
+  "trash-family": 16
+ },
+ "candidate_collisions": {
+  "cockroach": {
+   "exact": 0,
+   "substring": 0
+  },
+  "roach": {
+   "exact": 0,
+   "substring": 0
+  },
+  "vermin": {
+   "exact": 0,
+   "substring": 0
+  },
+  "raccoon": {
+   "exact": 0,
+   "substring": 0
+  },
+  "parrot": {
+   "exact": 0,
+   "substring": 0
+  },
+  "glitter": {
+   "exact": 0,
+   "substring": 0
+  },
+  "timeshare": {
+   "exact": 0,
+   "substring": 0
+  },
+  "cult": {
+   "exact": 0,
+   "substring": 0
+  },
+  "opossum": {
+   "exact": 0,
+   "substring": 0
+  },
+  "pigeon": {
+   "exact": 0,
+   "substring": 0
+  },
+  "seagull": {
+   "exact": 0,
+   "substring": 0
+  },
+  "goldfish": {
+   "exact": 0,
+   "substring": 0
+  },
+  "moth": {
+   "exact": 0,
+   "substring": 0
+  },
+  "kudzu": {
+   "exact": 0,
+   "substring": 0
+  },
+  "treadmill": {
+   "exact": 0,
+   "substring": 0
+  },
+  "pickpocket": {
+   "exact": 0,
+   "substring": 0
+  },
+  "hangover": {
+   "exact": 0,
+   "substring": 0
+  },
+  "insomniac": {
+   "exact": 0,
+   "substring": 0
+  },
+  "traffic": {
+   "exact": 0,
+   "substring": 0
+  },
+  "pinball": {
+   "exact": 0,
+   "substring": 0
+  }
+ },
+ "chosen_word": "cockroach",
+ "chosen_word_bytes": 9,
+ "chosen_word_collisions": {
+  "exact": 0,
+  "substring": 0
+ }
+}
